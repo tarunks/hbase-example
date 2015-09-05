@@ -1,4 +1,4 @@
-package com.tarun.mapi;
+package com.tarun.myapp;
 
 public class ThriftApp {
 	public static void main(String[] args) {

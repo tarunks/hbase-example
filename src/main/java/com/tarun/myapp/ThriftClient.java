@@ -1,4 +1,4 @@
-package com.tarun.mapi;
+package com.tarun.myapp;
 
 import java.io.UnsupportedEncodingException;
 import java.nio.ByteBuffer;

@@ -1,4 +1,4 @@
-package com.tarun.mapi;
+package com.tarun.myapp;
 
 public class Employee{
 

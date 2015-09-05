@@ -1,4 +1,4 @@
-package com.tarun.mapi;
+package com.tarun.myapp;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.HBaseConfiguration;

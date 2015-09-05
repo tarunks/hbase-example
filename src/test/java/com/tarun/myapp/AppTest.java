@@ -1,4 +1,4 @@
-package com.tarun.mapi;
+package com.tarun.myapp;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
